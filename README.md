@@ -12,7 +12,7 @@ This is an interactive AI-powered tool that simulates HR interviews. Built with 
   - Hear each question via voice
   - Respond via microphone or typing
 - Automatically evaluates the responses using GPT
-- Outputs a scored interview evaluation in `.txt` format
+- Outputs a scored interview (0 - 10) and full evaluation in `.txt` format
 
 ## 🖼️ Screenshots
 
