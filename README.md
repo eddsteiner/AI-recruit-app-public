@@ -27,7 +27,7 @@ This is an interactive AI-powered tool that simulates HR interviews. Built with 
 
 ## 🔒 Source Code Access
 
-feel free to connect via [LinkedIn](https://www.linkedin.com/in/eddie-steiner-940aba301/) to discuss question or collaborate.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eddie-steiner-940aba301/) to ask questions or explore collaboration opportunities.
 
 ---
 
