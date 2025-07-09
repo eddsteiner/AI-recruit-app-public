@@ -27,7 +27,7 @@ This is an interactive AI-powered tool that simulates HR interviews. Built with 
 
 ## 🔒 Source Code Access
 
-To request access to the full source code or discuss licensing, please reach out via [LinkedIn](https://www.linkedin.com/in/eddie-steiner-940aba301/).
+feel free to connect via [LinkedIn](https://www.linkedin.com/in/eddie-steiner-940aba301/) to discuss question or collaborate.
 
 ---
 
