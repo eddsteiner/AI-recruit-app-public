@@ -23,7 +23,7 @@ This is an interactive AI-powered tool that simulates HR interviews. Built with 
 ![Question Page](Question_page.png)
 
 ### Evaluation Output
-![Evaluation Output](evaluation.png)
+![Evaluation Output](evalutation_txt_output.png)
 
 ## 🔒 Source Code Access
 
