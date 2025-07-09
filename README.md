@@ -1,6 +1,6 @@
 # Recruiter - AI-Powered Interview Screener 🧠🎙️
 
-RecruiterGPT is an interactive AI-powered tool that simulates HR interviews. Built with OpenAI GPT-4, this app automatically generates tailored interview questions based on a job description and evaluates candidate responses.
+This is an interactive AI-powered tool that simulates HR interviews. Built with OpenAI GPT-4, this app automatically generates tailored interview questions based on a job description and evaluates candidate responses.
 
 > ⚠️ **Note:** This repository is for showcase purposes only. The source code is not publicly available to protect intellectual property.
 
@@ -17,13 +17,13 @@ RecruiterGPT is an interactive AI-powered tool that simulates HR interviews. Bui
 ## 🖼️ Screenshots
 
 ### Setup Page
-![Setup Page](documentation/Setup_page.png)
+![Setup Page](Setup_page.png)
 
 ### Interview Page
-![Question Page](documentation/Question_page.png)
+![Question Page](Question_page.png)
 
 ### Evaluation Output
-![Evaluation Output](documentation/evaluation.png)
+![Evaluation Output](evaluation.png)
 
 ## 🔒 Source Code Access
 
